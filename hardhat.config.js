@@ -1,7 +1,7 @@
 require("@nomicfoundation/hardhat-toolbox");
 
 /** @type import('hardhat/config').HardhatUserConfig */
-const INFURA_API_KEY = "ABCDE12345ABCDE12345ABCDE123456789";
+const INFURA_API_KEY = "test";
 
 // Replace this private key with your Sepolia account private key
 // To export your private key from Metamask, open Metamask and
